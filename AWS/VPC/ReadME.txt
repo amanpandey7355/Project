@@ -1,10 +1,10 @@
-Creation of Public and Private Subnet Virtual Machine and Logging in into private VM :
+Creation of Public(Internet Gateway) and Private(No Internet Gateway) Subnet Virtual Machine and Logging in into private Virtual Machine :
     ScreenShots consist :
-        VPC, Public and Private Subnet, Route Table, Internet Gateway
-        Interconnection b/w VPC and resources
+        Virtual Private Cloud, Public and Private Subnet, Route Table, Internet Gateway
+        Interconnection betweenw VPC and resources
         Login into Public virtual System and Private virtual System through EC2 Service.
 
-Creation of VPC Peering and Pinging pinging VM :
+Creation of VPC Peering and Pinging Virtual Machine :
     ScreenShots consist :
         Setting up VPC peering
         Allowing peering acsess into Route Table
